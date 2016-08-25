@@ -1,0 +1,18 @@
+.fondo{
+	background-image: url("../img/fondo.jpg");
+	height: auto;
+	width: 100%;
+}
+
+.foto-1{
+	width: 50%;
+	height: 50%;
+	float: left;
+	padding: 5%;
+}
+h1{
+	color:#FFF;
+	padding: 3%;
+}
+
+.fdo-2{ background-color: #BD538D; }
