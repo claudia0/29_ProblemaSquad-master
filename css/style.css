@@ -10,9 +10,24 @@
 	float: left;
 	padding: 5%;
 }
-h1{
+h1, h3{
 	color:#FFF;
 	padding: 3%;
 }
 
 .fdo-2{ background-color: #BD538D; }
+.imgn{
+	width: 100%;	
+	height:auto;
+}
+.pdg{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+span{ color }
+
+.rda{ 
+	border-radius: 50px;
+	width:  270px;
+	height: auto;
+	 }
